@@ -12,6 +12,7 @@
     "@clerk/nextjs": "^6.12.4",
     "@radix-ui/react-dialog": "^1.1.6",
     "@radix-ui/react-slot": "^1.1.2",
+    "@radix-ui/react-toast": "^1.2.6",
     "@stream-io/node-sdk": "^0.4.19",
     "@stream-io/video-react-sdk": "^1.12.11",
     "class-variance-authority": "^0.7.1",

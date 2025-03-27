@@ -13,12 +13,14 @@
   }
 } */
 
-/* * {
+ /* *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
+} 
+body{
+  background-color: #1C1F2E;
+} */
 /* ======== stream css overrides ======== */
 .str-video__call-stats {
   max-width: 500px;
