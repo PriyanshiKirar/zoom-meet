@@ -64,7 +64,7 @@ const isPersonalRoom=!!searchParams.get('personal')
           <CallParticipantsList onClose={() => setshowParticipants(false)} />
         </div>
       </div>
-      <div className="fixed bottom-0 flex w-full items-center justify-center gap-5">
+      <div className="fixed bottom-0 flex w-full items-center justify-center gap-5 flex-wrap">
         <CallControls />
         <DropdownMenu>
           <div className="flex items-center">
